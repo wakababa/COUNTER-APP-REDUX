@@ -11,7 +11,7 @@ const App=(props,{dispatch})=> {
 
     <div className="jumbotron">
     
-    <img  src="https://www.pngkit.com/png/full/222-2224803_react-redux-react-js-and-redux.png" alt="" className="image-fluid"/>
+    <img width="80%"  src="https://www.pngkit.com/png/full/222-2224803_react-redux-react-js-and-redux.png" alt="" />
     <h3 className="mt-5">COUNTER APP REDUX</h3>
     </div>
     <button className="btn btn-primary m-1" onClick={increment} >Plus</button>
